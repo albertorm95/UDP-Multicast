@@ -1,6 +1,5 @@
 import socket
 import struct
-import sys
 
 message = "MENSAJE"
 multicast_group = ("224.3.29.71", 1111)
